@@ -1,0 +1,12 @@
+1.Use the following commands to install the dependecy:
+  pip install -r ./requirements.txt
+2.Run the file and give an input to search:
+  python main.py
+3.The images are saved in the {search_term+" images"} folder, together with the montages.
+4.The repository contains two sample results produced by search "laptops" and "memory cards".
+
+# Montage contains a Montage class, used for the challenge part. 
+# The class could save a 1D montage that stack images horizontally using save() function.
+# Alternatively, it could also save the montage in 2D use saveMontage2D()
+
+
